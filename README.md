@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning electronics
 - 💞️ I’m looking to collaborate on any kind of work related to EECE
 - 📫 How to reach me ...
+- 😅 Pronoun ... she/her👍
 - ⚡ Fun fact: i love to explore and riding bike
 
 <!---
