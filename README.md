@@ -3,9 +3,9 @@
 - 👀 I’m interested in how life takes me
 - 🌱 I’m currently learning electronics
 - 💞️ I’m looking to collaborate on any kind of work related to EECE
-- 📫 How to reach me ...
+- 📫 How to reach me gowhasri@gmail.com...
 - 😅 Pronoun ... she/her👍
-- ⚡ Fun fact: i love to explore and riding bike
+- ⚡ Fun fact: I'm a Extrovert who loves to explore and riding bike
 
 <!---
 Gowhasrii/Gowhasrii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
