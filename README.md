@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Gowhasrii
+- ✨ Yes I'm working, I'm working in Amara Raja 
 - 👀 I’m interested in how life takes me
 - 🌱 I’m currently learning electronics
 - 💞️ I’m looking to collaborate on any kind of work related to EECE
